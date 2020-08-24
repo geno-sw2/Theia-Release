@@ -4,7 +4,7 @@
 https://github.com/geno-sw2/Theia-Release/releases
 
 ### Theia 32bit Rev.281
-
+https://github.com/geno-sw2/Theia-Release/releases/tag/0.5
 
 ### PortView
 https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView.exe
