@@ -2,8 +2,8 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia Dental Rev.2639
-https://github.com/geno-sw2/Theia-Release/releases/tag/1.0
+### Theia 32bit Dental Rev.315
+https://github.com/geno-sw2/Theia-Release/releases/tag/1.1
 
 ### PortView
 https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView.exe
