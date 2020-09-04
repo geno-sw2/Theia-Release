@@ -3,7 +3,7 @@
 https://github.com/geno-sw2/Theia-Release/releases
 
 ### Theia Dental Rev.2673
-https://github.com/geno-sw2/Theia-Release/releases/tag/1.1
+https://github.com/geno-sw2/Theia-Release/releases/tag/1.2
 
 ### Theia ENT Rev.2673
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.3
