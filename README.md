@@ -15,7 +15,7 @@ https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView.exe
 https://github.com/geno-sw2/Theia-Release/releases/download/0.3/SMARF_1.0.0.1.exe
 
 ### Implant Library
-https://github.com/geno-sw2/Theia-Release/releases/download/0.1/Implant_Library.KOR.zip
+https://github.com/geno-sw2/Theia-Release/releases/download/0.1/Implant_Library.KR.zip
 
 ### Tray
 https://github.com/geno-sw2/Theia-Release/releases/download/0.01/Tray.zip
