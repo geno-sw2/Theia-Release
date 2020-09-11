@@ -5,7 +5,7 @@ https://github.com/geno-sw2/Theia-Release/releases
 ### Theia Dental Rev.2759
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.5
 
-### Theia ENT Rev.2757
+### Theia ENT Rev.2759
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.5
 
 ### PortView
