@@ -6,7 +6,7 @@ https://github.com/geno-sw2/Theia-Release/releases
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.5
 
 ### Theia ENT Rev.2759
-https://github.com/geno-sw2/Theia-Release/releases/tag/1.5
+https://github.com/geno-sw2/Theia-Release/releases/tag/1.6
 
 ### PortView
 https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView.exe
