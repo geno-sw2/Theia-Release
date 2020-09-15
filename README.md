@@ -9,7 +9,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/1.7
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.6
 
 ### PortView
-https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView.exe
+https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView_2.2.5.7.exe
 
 ### SMARF
 https://github.com/geno-sw2/Theia-Release/releases/download/0.3/SMARF_1.0.0.1.exe
