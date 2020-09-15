@@ -2,8 +2,8 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia Dental Rev.2766
-https://github.com/geno-sw2/Theia-Release/releases/tag/1.7
+### Theia Dental Rev.2823
+https://github.com/geno-sw2/Theia-Release/releases/tag/1.8
 
 ### Theia ENT Rev.2759
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.6
