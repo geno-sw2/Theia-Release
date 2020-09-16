@@ -5,8 +5,8 @@ https://github.com/geno-sw2/Theia-Release/releases
 ### Theia Dental Rev.2826
 https://github.com/geno-sw2/Theia-Release/releases/tag/2.0
 
-### Theia ENT Rev.2823
-https://github.com/geno-sw2/Theia-Release/releases/tag/1.9
+### Theia ENT Rev.2826
+https://github.com/geno-sw2/Theia-Release/releases/tag/2.1
 
 ### PortView
 https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView_2.2.5.7.exe
