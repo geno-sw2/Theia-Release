@@ -8,8 +8,8 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/2.0
 ### Theia ENT Rev.2826
 https://github.com/geno-sw2/Theia-Release/releases/tag/2.1
 
-### Theia 32bit Rev.2855
-https://github.com/geno-sw2/Theia-Release/releases/tag/2.2
+### Theia 32bit Rev.2874
+https://github.com/geno-sw2/Theia-Release/releases/tag/2.3
 
 ### PortView
 https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView_2.2.5.7.exe
