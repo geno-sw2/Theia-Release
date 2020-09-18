@@ -12,7 +12,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/2.9
 https://github.com/geno-sw2/Theia-Release/releases/tag/2.3
 
 ### TrianaApp Rev.2889
-
+https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
 
 ### PortView
 https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView_2.2.5.7.exe
