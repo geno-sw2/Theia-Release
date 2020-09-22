@@ -5,8 +5,8 @@ https://github.com/geno-sw2/Theia-Release/releases
 ### Theia Dental Rev.2904
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.1
 
-### Theia ENT Rev.2889
-https://github.com/geno-sw2/Theia-Release/releases/tag/2.9
+### Theia ENT Rev.2904
+https://github.com/geno-sw2/Theia-Release/releases/tag/3.2
 
 ### Theia 32bit Rev.2874
 https://github.com/geno-sw2/Theia-Release/releases/tag/2.3
