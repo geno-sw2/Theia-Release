@@ -14,7 +14,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/3.6
 ### Theia 32bit Rev.2874 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/2.3
 
-### TrianaApp Rev.2889 - ENG version
+### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
 
 ### PortView
