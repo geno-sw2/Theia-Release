@@ -2,16 +2,19 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia Dental Rev.2951
+### Theia Dental Rev.2951 - KR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.7
 
-### Theia ENT Rev.2922
+### Theia Dental Rev.xxx - ENG version
+
+
+### Theia ENT Rev.2922 - KR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.6
 
-### Theia 32bit Rev.2874
+### Theia 32bit Rev.2874 - KR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/2.3
 
-### TrianaApp Rev.2889
+### TrianaApp Rev.2889 - ENG version
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
 
 ### PortView
