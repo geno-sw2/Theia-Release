@@ -5,8 +5,8 @@ https://github.com/geno-sw2/Theia-Release/releases
 ### Theia Dental Rev.3075 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/4.0
 
-### Theia Dental Rev.3038 - ENG version
-https://github.com/geno-sw2/Theia-Release/releases/tag/3.9
+### Theia Dental Rev.3075 - ENG version
+https://github.com/geno-sw2/Theia-Release/releases/tag/4.1
 
 ### Theia ENT Rev.2922 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.6
