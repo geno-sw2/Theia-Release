@@ -11,8 +11,8 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/4.4
 ### Theia ENT Rev.2922 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.6
 
-### Theia 32bit Rev.3123 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/4.5
+### Theia 32bit Rev.3124 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/4.6
 
 ### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
