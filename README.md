@@ -8,7 +8,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/5.1
 ### Theia Dental Rev.3253 - ENG version
 https://github.com/geno-sw2/Theia-Release/releases/tag/5.2
 
-### Theia ENT Rev.3251 - KOR version
+### Theia ENT Rev.3253 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/5.0
 
 ### Theia 32bit Rev.3124 - KOR version
