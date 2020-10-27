@@ -17,8 +17,8 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/4.6
 ### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
 
-### PortView - 2.2.5.8
-https://github.com/geno-sw2/Theia-Release/releases/download/0.2/Portview.exe
+### PortView - 2.2.5.9
+https://github.com/geno-sw2/Theia-Release/releases/download/0.2/PortView.exe
 
 ### SMARF
 https://github.com/geno-sw2/Theia-Release/releases/download/0.3/SMARF_1.0.0.1.exe
