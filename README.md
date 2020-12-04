@@ -12,7 +12,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/7%2C1
 https://github.com/geno-sw2/Theia-Release/releases/tag/7.2
 
 ### Theia 32bit Rev.3603 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/6.9
+https://github.com/geno-sw2/Theia-Release/releases/tag/7.3
 
 ### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
