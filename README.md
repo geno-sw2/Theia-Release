@@ -8,10 +8,10 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/7.4
 ### Theia Dental Rev.3636 - ENG version
 https://github.com/geno-sw2/Theia-Release/releases/tag/7.5
 
-### Theia ENT Rev.3602 - KOR version
+### Theia ENT Rev.3636 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/7.7
 
-### Theia 32bit Rev.3603 - KOR version
+### Theia 32bit Rev.3637 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/7.6
 
 ### TrianaApp Rev.2889
