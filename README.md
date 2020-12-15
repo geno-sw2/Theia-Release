@@ -9,7 +9,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/8.6
 https://github.com/geno-sw2/Theia-Release/releases/tag/8.7
 
 ### Theia ENT Rev.3675 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/8.4
+https://github.com/geno-sw2/Theia-Release/releases/tag/8.8
 
 ### Theia 32bit Rev.3675 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/8.5
