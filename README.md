@@ -2,14 +2,14 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia Dental Rev.3675 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/8.6
+### Theia Dental Rev.3735 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/8.9
 
-### Theia Dental Rev.3675 - ENG version
-https://github.com/geno-sw2/Theia-Release/releases/tag/8.7
+### Theia Dental Rev.3735 - ENG version
+https://github.com/geno-sw2/Theia-Release/releases/tag/9.0
 
-### Theia ENT Rev.3675 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/8.8
+### Theia ENT Rev.3735 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/9.1
 
 ### Theia 32bit Rev.3675 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/8.5
