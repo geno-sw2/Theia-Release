@@ -2,20 +2,20 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia 64bit Dental Rev.3857 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/9.6
+### Theia 64bit Dental Rev.3952 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/10.0
 
-### Theia 64bit Dental Rev.3857 - ENG version
-https://github.com/geno-sw2/Theia-Release/releases/tag/9.7
+### Theia 64bit Dental Rev.3952 - ENG version
+https://github.com/geno-sw2/Theia-Release/releases/tag/10.1
 
-### Theia 64bit ENT Rev.3857 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/9.8
+### Theia 64bit ENT Rev.3952 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/10.2
 
-### Theia 32bit Rev.3735 - Low version
-https://github.com/geno-sw2/Theia-Release/releases/tag/9.2
+### Theia 32bit Rev.3952 - Low version
+https://github.com/geno-sw2/Theia-Release/releases/tag/10.3
 
-### Theia 32bit Rev.3810 - High version
-https://github.com/geno-sw2/Theia-Release/releases/tag/9.5
+### Theia 32bit Rev.3952 - High version
+https://github.com/geno-sw2/Theia-Release/releases/tag/9.9
 
 ### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
