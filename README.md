@@ -5,8 +5,8 @@ https://github.com/geno-sw2/Theia-Release/releases
 ### Theia 64bit Dental Rev.4247 - 검증 발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/11.5
 
-### Theia 32bit Dental Rev.4247 - 검증 발행
-https://github.com/geno-sw2/Theia-Release/releases/tag/11.4
+### Theia 32bit Dental Rev.4267 - 검증 발행
+https://github.com/geno-sw2/Theia-Release/releases/tag/11.6
 
 ### Theia 64bit Dental Rev.3956 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/10.4
