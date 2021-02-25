@@ -11,8 +11,8 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/12.5
 ### Theia 64bit Dental Rev.4358 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/12.7
 
-### Theia 64bit Dental Rev.4358 - ENG version
-https://github.com/geno-sw2/Theia-Release/releases/tag/12.8
+### Theia 64bit Dental Rev.4366 - ENG version
+https://github.com/geno-sw2/Theia-Release/releases/tag/13.1
 
 ### Theia 64bit ENT Rev.4358 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/12.9
