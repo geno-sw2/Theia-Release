@@ -17,7 +17,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/13.3
 ### Theia 64bit ENT Rev.4375 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/13.4
 
-### Theia 32bit Rev.4358 - Low version
+### Theia 32bit Rev.4375 - Low version
 https://github.com/geno-sw2/Theia-Release/releases/tag/13.6
 
 ### Theia 32bit Rev.4375 - High version
