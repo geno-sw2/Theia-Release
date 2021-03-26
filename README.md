@@ -8,17 +8,17 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/12.6
 ### Theia 32bit Dental Rev.4334 - 검증 발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/12.5
 
-### Theia 64bit Dental Rev.4461 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/13.7
+### Theia 64bit Dental Rev.4515 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/64_4515_KOR
 
-### Theia 64bit Dental Rev.4461 - ENG version
-https://github.com/geno-sw2/Theia-Release/releases/tag/13.8
+### Theia 64bit Dental Rev.4515 - ENG version
+https://github.com/geno-sw2/Theia-Release/releases/tag/64_4515_ENG
 
-### Theia 64bit ENT Rev.4474 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/14.2
+### Theia 64bit ENT Rev.4515 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4515
 
-### Theia 32bit Rev.4461 - Low version
-https://github.com/geno-sw2/Theia-Release/releases/tag/14.0
+### Theia 32bit Rev.4515 - Low version
+https://github.com/geno-sw2/Theia-Release/releases/tag/32Low_4515
 
 ### Theia 32bit Rev.4461 - High version
 https://github.com/geno-sw2/Theia-Release/releases/tag/14.1
