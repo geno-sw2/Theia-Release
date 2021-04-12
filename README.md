@@ -26,6 +26,9 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/14.1
 ### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
 
+### 중국 인증 버전
+https://github.com/geno-sw2/Theia-Release/releases/tag/CHINA_2889
+
 ### PortView - 2.2.5.9
 https://github.com/geno-sw2/Theia-Release/releases/tag/0.2
 
