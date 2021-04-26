@@ -2,12 +2,6 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia 64bit Dental Rev.4334 - 검증 발행
-https://github.com/geno-sw2/Theia-Release/releases/tag/12.6
-
-### Theia 32bit Dental Rev.4334 - 검증 발행
-https://github.com/geno-sw2/Theia-Release/releases/tag/12.5
-
 ### Theia 64bit Dental Rev.4531 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_4531_KOR
 
