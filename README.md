@@ -14,9 +14,6 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4531
 ### Theia 32bit Rev.4531 - Low version
 https://github.com/geno-sw2/Theia-Release/releases/tag/32Low_4531
 
-### Theia 32bit Rev.4461 - High version
-https://github.com/geno-sw2/Theia-Release/releases/tag/14.1
-
 ### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
 
