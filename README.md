@@ -2,14 +2,14 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia 64bit Dental Rev.4531 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/64_4531_KOR
+### Theia 64bit Dental Rev.4600 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/64_4600_KOR
 
-### Theia 64bit Dental Rev.4531 - ENG version
-https://github.com/geno-sw2/Theia-Release/releases/tag/64_4531_ENG
+### Theia 64bit Dental Rev.4600 - ENG version
+https://github.com/geno-sw2/Theia-Release/releases/tag/64_4600_ENG
 
-### Theia 64bit ENT Rev.4531 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4531
+### Theia 64bit ENT Rev.4600 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4600
 
 ### Theia 32bit Rev.4531 - Low version
 https://github.com/geno-sw2/Theia-Release/releases/tag/32Low_4531
