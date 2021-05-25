@@ -26,7 +26,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/0.2
 ### SMARF
 https://github.com/geno-sw2/Theia-Release/releases/download/0.3/SMARF_1.0.0.1.exe
 
-### THEIA Implant Library - 1.0.0.4
+### THEIA Implant Library - 1.0.0.5
 https://github.com/geno-sw2/Theia-Release/releases/tag/0.1
 
 ### Triana Implant Library
