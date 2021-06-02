@@ -3,13 +3,13 @@
 https://github.com/geno-sw2/Theia-Release/releases
 
 ### Theia 64bit Dental 1.0.0.4 - KOR version (검증발행)
-https://github.com/geno-sw2/Theia-Release/releases/tag/64_4627_KOR
+https://github.com/geno-sw2/Theia-Release/releases/tag/64_4637_KOR
 
 ### Theia 64bit Dental 1.0.0.4 - ENG version (검증발행)
-https://github.com/geno-sw2/Theia-Release/releases/tag/64_4627_ENG
+https://github.com/geno-sw2/Theia-Release/releases/tag/64_4637_ENG
 
 ### Theia ENT 1.0.0.4 - KOR version (검증발행)
-https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4627
+https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4637
 
 ### Theia 64bit Dental 1.0.0.4 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_4634_KOR
