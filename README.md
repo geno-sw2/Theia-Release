@@ -11,6 +11,9 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/64_4651_ENG
 ### Theia ENT 1.0.0.4 - KOR version (검증발행)
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4651
 
+### Theia 32bit 1.0.0.4 - KOR version (내부검증용)
+https://github.com/geno-sw2/Theia-Release/releases/tag/32_4561
+
 ### Theia 64bit Dental 1.0.0.4 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_4634_KOR
 
