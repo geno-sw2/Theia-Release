@@ -2,26 +2,17 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### Theia 64bit Dental 1.0.0.4 - KOR version (검증발행)
+### Theia 64bit Dental 1.0.0.4 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_4671_KOR
 
-### Theia 64bit Dental 1.0.0.4 - ENG version (검증발행)
+### Theia 64bit Dental 1.0.0.4 - ENG version
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_4671_ENG
 
-### Theia ENT 1.0.0.4 - KOR version (검증발행)
+### Theia ENT 1.0.0.4 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4671
 
 ### Theia 32bit 1.0.0.4 - KOR version (내부검증용)
 https://github.com/geno-sw2/Theia-Release/releases/tag/32_4561
-
-### Theia 64bit Dental 1.0.0.4 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/64_4634_KOR
-
-### Theia 64bit Dental 1.0.0.4 - ENG version
-https://github.com/geno-sw2/Theia-Release/releases/tag/64_4634_ENG
-
-### Theia 64bit ENT 1.0.0.4 - KOR version
-https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4634
 
 ### Theia 32bit Rev.4531 - Low version
 https://github.com/geno-sw2/Theia-Release/releases/tag/32Low_4531
