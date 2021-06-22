@@ -14,11 +14,11 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/64_4701_Tur
 ### Theia ENT 1.0.0.4 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4696
 
+### Theia 32bit 1.0.0.4 - KOR version
+https://github.com/geno-sw2/Theia-Release/releases/tag/32Low_4531
+
 ### Theia 32bit 1.0.0.4 - KOR version (내부검증용)
 https://github.com/geno-sw2/Theia-Release/releases/tag/32_4561
-
-### Theia 32bit Rev.4531 - Low version
-https://github.com/geno-sw2/Theia-Release/releases/tag/32Low_4531
 
 ### TrianaApp Rev.2889
 https://github.com/geno-sw2/Theia-Release/releases/tag/3.0
