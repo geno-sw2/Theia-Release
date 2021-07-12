@@ -12,8 +12,6 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/64_4743_ENG
 ### Theia ENT 1.0.0.5 - KOR version(검증발행)
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4743
 
-### -------------------------------------------------------------
-
 ### ---------------------- 국내 ---------------------------------
 
 ### Theia 64bit Dental 1.0.0.4 - KOR version
@@ -24,8 +22,6 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_4696
 
 ### Theia 32bit 1.0.0.4 - KOR version
 https://github.com/geno-sw2/Theia-Release/releases/tag/32_4701
-
-### -------------------------------------------------------------
 
 ### ---------------------- 해외 ---------------------------------
 
