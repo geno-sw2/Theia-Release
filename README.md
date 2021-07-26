@@ -18,9 +18,6 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/32_4701
 ### Theia 64bit Dental 1.0.0.5 - ENG version
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_4772_ENG
 
-### Theia 64bit Dental 1.0.0.4 - Turkish version
-https://github.com/geno-sw2/Theia-Release/releases/tag/64_4701_Tur
-
 ### Theia 64bit Dental 1.0.0.5 - Russian version - 임시발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_1.0.0.5_RUSSIA
 
