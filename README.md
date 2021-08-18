@@ -4,7 +4,7 @@ https://github.com/geno-sw2/Theia-Release/releases
 
 ### ---------------------- 검증 발행 ----------------------------
 
-### Theia 64bit Dental 1.0.0.6 - 
+### Theia 64bit Dental 1.0.0.6 - 검증 발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.6-검증
 
 ### ---------------------- 국내 ---------------------------------
