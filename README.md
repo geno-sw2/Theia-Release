@@ -7,11 +7,14 @@ https://github.com/geno-sw2/Theia-Release/releases
 ### Theia 64bit Dental 1.0.0.6 - 검증 발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.6
 
-### Theia 64bit Dental 1.0.0.6 - ENG version
+### Theia 64bit Dental 1.0.0.6 - ENG version - 검증 발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENG-1.0.0.6
 
-### Theia ENT 1.0.0.6
+### Theia ENT 1.0.0.6 - 검증 발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENT-1.0.0.6
+
+### TrianaApp 2.5.5 - 검증 
+https://github.com/geno-sw2/Theia-Release/releases/tag/TrianaApp_2.5.5
 
 ### ---------------------- 국내 ---------------------------------
 
@@ -31,9 +34,6 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/64_4772_ENG
 
 ### Theia 64bit Dental 1.0.0.5 - Russian version - 임시발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_1.0.0.5_RUSSIA
-
-### TrianaApp 2.5.5
-https://github.com/geno-sw2/Theia-Release/releases/tag/TrianaApp_2.5.5
 
 ### -------------------------------------------------------------
 
