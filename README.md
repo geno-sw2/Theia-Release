@@ -32,10 +32,10 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/64_4772_ENG
 ### Theia 64bit Dental 1.0.0.5 - Russian version - 임시발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/64_1.0.0.5_RUSSIA
 
-### -------------------------------------------------------------
-
-### 중국 인증 버전
+### TrianaApp 2.5.5
 https://github.com/geno-sw2/Theia-Release/releases/tag/TrianaApp_2.5.5
+
+### -------------------------------------------------------------
 
 ### PortView - 2.2.5.9
 https://github.com/geno-sw2/Theia-Release/releases/tag/0.2
