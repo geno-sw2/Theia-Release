@@ -8,14 +8,14 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.6
 ### Theia ENT 1.0.0.6
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENT-1.0.0.6
 
-### ---------------------- 검증 발행 해외 ----------------------------
+### ---------------------- 검증 발행 해외 -----------------------
 
 ### TrianaApp 2.5.5 - 검증 발행
 https://github.com/geno-sw2/Theia-Release/releases/tag/TrianaApp_2.5.5
 
 ###---------------‐---------------------------------------------------
 
-### ---------------------- 매뉴얼 ------------------------------------
+### ---------------------- 매뉴얼 -------------------------------
 
 https://github.com/geno-sw2/Theia-Release/releases/tag/Manual
 
