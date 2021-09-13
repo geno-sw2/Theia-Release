@@ -15,7 +15,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/TrianaApp_2.5.5
 
 ###---------------‐---------------------------------------------------
 
-### PortView - 2.2.5.9
+### PortView - 2.2.5.10
 https://github.com/geno-sw2/Theia-Release/releases/tag/0.2
 
 ### SMARF
