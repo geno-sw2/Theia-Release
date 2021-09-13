@@ -27,11 +27,5 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/0.1
 ### Triana Implant Library
 https://github.com/geno-sw2/Theia-Release/releases/tag/5.6
 
-### Tray
-https://github.com/geno-sw2/Theia-Release/releases/download/0.01/Tray.zip
-
-### DataBase Patch
-https://github.com/geno-sw2/Theia-Release/wiki/DataBase-Patch
-
 ### THEIA Video
 https://github.com/geno-sw2/Theia-Release/releases/tag/THEIA_VIDEO
