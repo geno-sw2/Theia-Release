@@ -44,3 +44,4 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/5.6
 https://github.com/geno-sw2/Theia-Release/releases/tag/THEIA_VIDEO
 
 ### 크락셀 데모버전
+https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.11
