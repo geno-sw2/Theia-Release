@@ -9,11 +9,11 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.1.0
 
 ### ---------------‐---------------------------------------------------
 
-### Theia 64bit Dental 1.0.0.7
-https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.7
+### Theia 64bit Dental 1.0.0.8
+https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.8
 
-### Theia ENT 1.0.0.7
-https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_1.0.0.7
+### Theia ENT 1.0.0.8
+https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_1.0.0.8
 
 ### ---------------------- 중국향 -------------------------------
 
