@@ -23,7 +23,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_1.0.0.8
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.6
 
 ### Theia ENT 1.0.0.6
-https://github.com/geno-sw2/Theia-Release/releases/tag/ENT_1.0.0.6
+https://github.com/geno-sw2/Theia-Release/releases/tag/ENT-1.0.0.6
 
 ### ---------------------- 중국향 -------------------------------
 
