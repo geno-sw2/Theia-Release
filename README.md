@@ -38,7 +38,7 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/Manual
 
 ###---------------‐---------------------------------------------------
 
-### PortView - 2.2.5.11
+### PortView - 2.2.5.12
 https://github.com/geno-sw2/Theia-Release/releases/tag/0.2
 
 ### SMARF
