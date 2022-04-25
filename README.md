@@ -2,7 +2,7 @@
 ### The installation file can be downloaded from the this page
 https://github.com/geno-sw2/Theia-Release/releases
 
-### ---------------------- 검증 -------------------------------
+### ---------------------- 검증( Verification Version ) -------------------------------
 
 ### Theia 64bit Dental 1.0.1.0
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.1.0
@@ -21,14 +21,14 @@ https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.0.6
 ### Theia ENT 1.0.0.6
 https://github.com/geno-sw2/Theia-Release/releases/tag/ENT-1.0.0.6
 
-### ---------------------- 중국향 -------------------------------
+### ---------------------- 중국향( For China ) -------------------------------
 
 ### TrianaApp 2.5.5 
 https://github.com/geno-sw2/Theia-Release/releases/tag/TrianaApp_2.5.5
 
 ### ---------------‐---------------------------------------------------
 
-### ---------------------- 매뉴얼 -------------------------------
+### ---------------------- 매뉴얼( Manual ) -------------------------------
 
 https://github.com/geno-sw2/Theia-Release/releases/tag/Manual
 
