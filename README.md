@@ -7,6 +7,11 @@ https://github.com/geno-sw2/Theia-Release/releases
 ### Theia 64bit Dental 1.0.1.0
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.1.0
 
+
+### ---------------------- 러시아 데모( Russia Demo ) -------------------------------
+
+
+
 ### ---------------‐---------------------------------------------------
 
 ### Theia 64bit Dental 1.0.0.8
