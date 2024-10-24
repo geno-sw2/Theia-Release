@@ -4,11 +4,11 @@ https://github.com/geno-sw2/Theia-Release/releases
 
 ### ---------------------- 검증용( Verification Version ) -------------------------------
 
-### Theia 64bit Dental 1.0.1.1
-https://github.com/geno-sw2/Theia-Release/releases/tag/Theia_1.0.1.1
+### Theia 64bit Dental 1.0.1.2
+https://github.com/geno-sw2/Theia-Release/releases/tag/Theia_1.0.1.2
 
-### Theia 64bit ENT 1.0.1.1
-https://github.com/geno-sw2/Theia-Release/releases/tag/Theia_ENT_1.0.1.1
+### Theia 64bit ENT 1.0.1.2
+https://github.com/geno-sw2/Theia-Release/releases/tag/Theia_ENT_1.0.1.2
 
 ### Theia 64bit Dental 1.0.1.0
 https://github.com/geno-sw2/Theia-Release/releases/tag/1.0.1.0
